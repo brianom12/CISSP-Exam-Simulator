@@ -6429,8 +6429,8 @@
         "C": "Data Link",
         "D": "Network"
       },
-      "correct_answer": "B",
-      "explanation": "Correct: B – Transport. The OSI 7 layers each handle specific functions. The answer correctly maps the described functionality or attack to the appropriate layer."
+      "correct_answer": "D",
+      "explanation": "Correct: D – Network. The OSI 7 layers each handle specific functions. The answer correctly maps the described functionality or attack to the appropriate layer."
     },
     {
       "id": 537,
