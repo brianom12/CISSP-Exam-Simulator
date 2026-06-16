@@ -5558,8 +5558,8 @@
         "C": "Confidentiality",
         "D": "Integrity"
       },
-      "correct_answer": "B",
-      "explanation": "Correct: B – Non-Repudiation. Wireless security involves encryption (WPA2/3), authentication (802.1X/EAP), and proper AP configuration. The answer is the most appropriate measure."
+      "correct_answer": "C",
+      "explanation": "Correct: C – Confidentiality. Wireless security involves encryption (WPA2/3), authentication (802.1X/EAP), and proper AP configuration. The answer is the most appropriate measure."
     },
     {
       "id": 464,
