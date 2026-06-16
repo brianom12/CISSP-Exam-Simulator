@@ -9307,7 +9307,7 @@
         "D": "Device encryption"
       },
       "correct_answer": "B",
-      "explanation": "Correct: B – Input validation. This cryptographic approach correctly addresses the requirement. Cryptographic controls ensure confidentiality, integrity, and authenticity of data through appropriate algorithm selection, key management, and implementation."
+      "explanation": "Correct: C – Digital signing. This cryptographic approach correctly addresses the requirement. Cryptographic controls ensure confidentiality, integrity, and authenticity of data through appropriate algorithm selection, key management, and implementation."
     },
     {
       "id": 777,
