@@ -7451,9 +7451,9 @@
     },
     {
       "id": 622,
-      "question": "If a content management system (CSM) is implemented, which one of the following would occur?",
+      "question": "If a configuration management system (CMS) is implemented, which one of the following would occur?",
       "choices": {
-        "A": "The test and production systems would be riming the same software",
+        "A": "The test and production systems would be running the same software",
         "B": "The applications placed into production would be secure",
         "C": "Developers would no longer have access to production systems",
         "D": "Patching the systems would be completed mere quickly"
