@@ -2186,7 +2186,7 @@
     },
     {
       "id": 182,
-      "question": "(1487 Q&As)Which of the following roles is responsible for ensuring that important datasets are developed, maintained, and are accessible within their defined specifications?",
+      "question": "Which of the following roles is responsible for ensuring that important datasets are developed, maintained, and are accessible within their defined specifications?",
       "choices": {
         "A": "Data Reviewer",
         "B": "Data User",
@@ -4849,7 +4849,8 @@
       "choices": {
         "A": "Data Reviewer",
         "B": "Data User",
-        "C": "Data Custodian (1487 New Questions)D. Data Owner"
+        "C": "Data Custodian", 
+        "D". "Data Owner"
       },
       "correct_answer": "D",
       "explanation": "Correct: D – the selected answer. This answer correctly addresses the specific security requirement described in the question based on established CISSP domain principles and best practices."
