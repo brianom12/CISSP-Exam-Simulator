@@ -3765,7 +3765,7 @@
         "D": "Organizational stakeholders, with classification approved by the management board"
       },
       "correct_answer": "D",
-      "explanation": "Correct: D – Organizational stakeholders, with classification approved by the management board. This answer correctly addresses the specific security requirement described in the question based on established CISSP domain principles and best practices."
+      "explanation": "Correct: B – Legal requirements, value, criticality, and sensitivity to unauthorized disclosure or modification. This answer correctly addresses the specific security requirement described in the question based on established CISSP domain principles and best practices."
     },
     {
       "id": 314,
