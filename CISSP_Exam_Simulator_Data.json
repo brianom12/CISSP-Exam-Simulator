@@ -4254,8 +4254,8 @@
         "C": "Provide diligent and competent service to principles.",
         "D": "Advance and protect the profession."
       },
-      "correct_answer": "B",
-      "explanation": "Correct: B – Protect society, the commonwealth, and the infrastructure.. (ISC)² ethics priorities: (1) Protect society/infrastructure, (2) Act honorably/legally, (3) Diligent service to principals, (4) Advance the profession."
+      "correct_answer": "C",
+      "explanation": "Correct: C – Provide diligent and competent service to principles. (ISC)² ethics priorities: (1) Protect society/infrastructure, (2) Act honorably/legally, (3) Diligent service to principals, (4) Advance the profession."
     },
     {
       "id": 355,
@@ -5925,7 +5925,8 @@
       "choices": {
         "A": "Cross-Site Scripting (XSS)",
         "B": "Pass the ticket",
-        "C": "Brute force (1487 Q&As)D. Hash collision"
+        "C": "Brute force", 
+        "D": "Hash collision"
       },
       "correct_answer": "B",
       "explanation": "Correct: B – Pass the ticket. This authentication mechanism best addresses the security requirements described. Strong authentication verifies identity through knowledge (something you know), possession (something you have), or inherence (something you are)."
@@ -7315,8 +7316,8 @@
         "C": "Monitoring and acceptance phase",
         "D": "Contracting phase"
       },
-      "correct_answer": "C",
-      "explanation": "Correct: C – Monitoring and acceptance phase. This authentication mechanism best addresses the security requirements described. Strong authentication verifies identity through knowledge (something you know), possession (something you have), or inherence (something you are)."
+      "correct_answer": "B",
+      "explanation": "Correct: B – Planning phase. This authentication mechanism best addresses the security requirements described. Strong authentication verifies identity through knowledge (something you know), possession (something you have), or inherence (something you are)."
     },
     {
       "id": 611,
@@ -7674,8 +7675,8 @@
         "C": "Use a comprehensive list of words to attempt to guess the password.",
         "D": "Use social engineering methods to attempt to obtain the password."
       },
-      "correct_answer": "C",
-      "explanation": "Correct: C – Use a comprehensive list of words to attempt to guess the password.. Password security includes complexity, lockout policies, salted hashing, and rotation. The answer identifies the best protection measure."
+      "correct_answer": "A",
+      "explanation": "Correct: A – Conduct an offline attack on the hashed password information. Password security includes complexity, lockout policies, salted hashing, and rotation. The answer identifies the best protection measure."
     },
     {
       "id": 641,
